@@ -9,6 +9,11 @@
       "title": "Another Stream",
       "description": "A secondary example",
       "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "Yet another stream",
+      "id": 3
     }
   ]
 }
