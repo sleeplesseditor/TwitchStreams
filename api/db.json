@@ -1,21 +1,6 @@
 {
   "streams": [
     {
-      "title": "Test Stream",
-      "description": "An example of a test stream for the API",
-      "id": 1
-    },
-    {
-      "title": "Another Stream",
-      "description": "A secondary example",
-      "id": 2
-    },
-    {
-      "title": "Third Stream",
-      "description": "Yet another stream",
-      "id": 3
-    },
-    {
       "title": "I Created This",
       "description": "Some Words",
       "userId": "116898491547586407358",
@@ -26,6 +11,17 @@
       "description": "A Test for the Nav",
       "userId": "116898491547586407358",
       "id": 5
+    },
+    {
+      "title": "Manual Addition",
+      "description": "Looking at that file",
+      "userId": "116898491547586407358",
+      "id": 6
+    },
+    {
+      "title": "Component Updated",
+      "description": "Refactoring",
+      "id": 7
     }
   ]
 }
