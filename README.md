@@ -1,3 +1,3 @@
 # TwitchStreams
 
-An experiment in the use of the Twitch API with React.
+An experiment in the creation of a basic Twitch clone with React.
